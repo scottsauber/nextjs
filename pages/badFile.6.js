@@ -1,4 +1,4 @@
-const test = () => {
+const test6 = () => {
   let blah = "";
   let blah1 = "";
   let blah2 = "";
