@@ -1,4 +1,4 @@
-module.exports.test1 = () => {
+export const test1 = () => {
   let blah = "";
   let blah1 = "";
   let blah2 = "";
