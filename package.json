@@ -2,7 +2,8 @@
   "scripts": {
     "build": "next build",
     "dev": "next",
-    "now-build": "next build"
+    "now-build": "next build",
+    "test:ci": "./node_modules/.bin/jest --ci --coverage"
   },
   "dependencies": {
     "jest": "^24.8.0",
